@@ -20,6 +20,7 @@ docker-compose up
 Next, run the Node.js application in another terminal:
 
 ```bash
+npm install
 npm start
 ```
 
